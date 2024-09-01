@@ -18,7 +18,8 @@
     "clsx": "^2.1.1",
     "lucide-react": "^0.437.0",
     "tailwind-merge": "^2.5.2",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "@vercel/next": "^1.0.0" // Add this line
   },
   "devDependencies": {
     "@types/node": "^20",
